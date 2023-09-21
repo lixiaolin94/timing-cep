@@ -2,12 +2,12 @@
 <ExtensionManifest
 Version="6.0"
 ExtensionBundleId="work.xiaolin.timing"
-ExtensionBundleVersion="0.0.1"
+ExtensionBundleVersion="0.0.2"
 ExtensionBundleName="Timing"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 >
 <ExtensionList>
-  <Extension Id="work.xiaolin.timing.main" Version="0.0.1" />
+  <Extension Id="work.xiaolin.timing.main" Version="0.0.2" />
 </ExtensionList>
 <ExecutionEnvironment>
   <HostList>
